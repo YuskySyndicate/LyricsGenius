@@ -20,7 +20,7 @@ pip install lyricsgenius
 Or, install the latest version of the package from GitHub:
 
 ```bash
-pip install git+https://github.com/johnwmillr/LyricsGenius.git
+pip install git+https://github.com/yusrilsyahruddin/LyricsGenius.git
 ```
 
 ## Usage
@@ -90,4 +90,4 @@ python3 -m lyricsgenius artist "The Beatles" --max-songs 5 --save
   - [49 Years of Lyrics: Why So Angry?](https://towardsdatascience.com/49-years-of-lyrics-why-so-angry-1adf0a3fa2b4)
 
 ## Contributing
-Please contribute! If you want to fix a bug, suggest improvements, or add new features to the project, just [open an issue](https://github.com/johnwmillr/LyricsGenius/issues) or send me a pull request.
+Please contribute! If you want to fix a bug, suggest improvements, or add new features to the project, just [open an issue](https://github.com/yusrilsyahruddin/LyricsGenius/issues) or send me a pull request.
